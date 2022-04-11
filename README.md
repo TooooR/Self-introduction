@@ -1,1 +1,4 @@
 - 👋 Hi, I’m @TooooR
+- 💻 I’m a front-end developer
+- 🙌 I’m very willing to communicate with you and make progress
+- ...
